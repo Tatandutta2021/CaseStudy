@@ -1,0 +1,11 @@
+div.fixed{
+    position: fixed;
+    bottom: 0;
+    width:100%;
+    color:red;
+    text-align: center;
+    /* background-image: url("./footer.png"); */
+    text-align: center;
+   background: rgb(37, 34, 34); 
+    margin-top: 10px;
+  }

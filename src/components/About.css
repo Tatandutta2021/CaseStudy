@@ -1,0 +1,17 @@
+div.aboutdiv{
+
+    color:black;
+    text-shadow: 3px 5px 5px #1ca1bc;
+    padding-block-start: 0.1cm;
+    padding-block-end: 1cm;
+    padding-left: 5cm;
+    padding-right: 3cm;
+    margin: 0;
+    background-attachment: fixed;
+  
+  background-size:cover;
+   background-image: url("./SitesImages/Back.jpg"); 
+    text-align: center;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(35, 26, 66, 0.621); 
+    background-color: rgb(55, 53, 53);
+}

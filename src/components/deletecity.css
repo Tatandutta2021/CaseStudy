@@ -1,0 +1,7 @@
+.deleteid{
+    padding-right:  -30cm;
+    background-image: url("./delete.jpg");
+    background-size:contain;
+    padding-bottom: 5cm;
+    font-family: Arial, Helvetica, sans-serif;
+}

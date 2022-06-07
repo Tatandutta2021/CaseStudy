@@ -1,0 +1,40 @@
+
+div.fixed3{
+    position:fixed;
+    
+    top: 0cm;
+    width:100%;
+    height:13%;
+    background-color: rgb(156, 156, 156);
+    background-size:cover;
+    border: 3px solid #040404;
+    text-align:right;
+    background-image: url("./Header1.jpg");
+    padding-top: 0cm;
+    padding-bottom: 0.2cm;
+    
+    text-shadow: 3px 5px 5px #022830;
+  
+    
+    
+    
+    
+  }
+  div.imgdiv {
+    
+    
+   /* width:5%;
+   height:2%;  */
+  position:fixed;
+  border-color: black;
+  left:1cm;
+  top:0;
+  padding-left: cm;
+  padding-top: 0cm;
+  padding-top: 0cm;
+ 
+  
+
+
+  }
+  

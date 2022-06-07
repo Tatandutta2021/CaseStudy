@@ -1,0 +1,55 @@
+.loginForm{
+    text-align:center;
+            
+        background-image: url("./Tatan.jpg");
+        background-size:cover;
+       
+       height: 100%;
+        overflow: auto;
+        color:rgb(245, 245, 245);
+        
+       margin-bottom: 0;
+       padding-bottom: 5cm;
+       background-attachment: fixed;
+       box-shadow: 0 4px 8px 0 rgba(11, 117, 199, 0.769), 0 6px 20px 0 rgba(160, 160, 188, 0.696); 
+    
+        padding-block-start: 0.1cm;
+        padding-block-end: 1cm;
+        padding-left: 3.5cm;
+        
+        
+    
+}
+div.divlogin{
+    text-align: center;
+    /* padding-right: 3.5cm; */
+    background-image: url("./HEADER.jpg");
+    background-size:cover;
+    position:fixed;
+  
+  
+   height: 40%;
+   width:50%;
+   text-shadow: 3px 5px 5px #1ca1bc;
+  
+    /* overflow: auto; */
+    color:rgba(255, 255, 255, 0.806);
+   margin-bottom: 0;
+   padding-bottom: 0;
+    
+    /* border-style:inset; */
+    box-shadow: 10px 20px 30px 10px rgba(11, 117, 199, 0.769), 0 6px 20px 0 rgba(160, 160, 188, 0.696); 
+    border-color: rgb(153, 198, 237);
+   box-align:center;
+    padding-block-start: 0.1cm;
+    padding-block-end: cm;
+    right:8cm;
+    background-attachment: fixed;
+    padding-left:0.5cm;
+    padding-right: 0.5cm;
+    top:5cm;
+}
+
+
+
+
